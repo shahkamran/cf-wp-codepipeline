@@ -1,0 +1,9 @@
+{
+  "Parameters" : {
+    "DBName" : "ProdWordPressDB",
+    "DBPassword" : "myDBpA55w0rd123!9",
+    "DBRootPassword" : "myDB400tpA55w0rd123!9",
+    "DBUser" : "ProdDBuser",
+    "KeyName" : "myk8keypair"
+  }
+}
